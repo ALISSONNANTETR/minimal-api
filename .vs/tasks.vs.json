@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-ModelViews",
+      "appliesTo": "Dominio/ModelViews/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-minimal-api",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
